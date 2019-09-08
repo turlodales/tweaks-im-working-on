@@ -1,4 +1,6 @@
-# tweaks im working on this is a list of tweaks on working on this just the READ ME INFO the tweaks will be on my repo
+# tweaks im working on this is a list of tweaks on working on this just the READ ME INFO the tweaks will be on my repo i have permission for Spinsettings and BlueBoard by the devlopers but not for BytaFont or WeatherBoard but i saved all the info for WeatherBoard before it was deleted  
+
+if you intrested in any of the proects please look at the links for updates
 
 | Decsription | Link|
 |---------|----------|
@@ -26,15 +28,8 @@
 
 | Decsription | Link|
 |---------|----------|
-| BlueBoard (32/64bit) |  |
-| BlueBoard-2 (64bit)  |  |
-| BlueBoard-2 (iPadOS) |  |
-| BlueBoard-2 (TVOS)   |  |
-
-
-| Decsription | Link|
-|---------|----------|
-| BlueBoard (32/64bit) |  |
-| BlueBoard-2 (64bit)  |  |
-| BlueBoard-2 (iPadOS) |  |
-| BlueBoard-2 (TVOS)   |  |
+| WeatherBoard 7.0 to iOS 8.3 | https://github.com/turlodales/WeatherBoard |
+| weatherboard 2 8.3 to 9.3.5 | https://github.com/turlodales/weatherboard-2 |
+| WeatherBoard 3 (64bit) | https://github.com/turlodales/weatherboard-3 |
+| WeatherBoard 3 (iPadOS) | https://github.com/turlodales/WeatherBoard-3-iPadOS |
+| WeatherBoard 3 (TVOS)| https://github.com/turlodales/WeatherBoard-3-TVOS |
