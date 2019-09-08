@@ -6,7 +6,6 @@
 | SpinSettings-2 (64bit)  | https://github.com/turlodales/Spinsettings-2 |
 | SpinSettings-2 (iPadOS) | https://github.com/turlodales/SpinSettings-2-iPadSO |
 | SpinSettings-2 (TVOS)   |https://github.com/turlodales/SpinSettings-2-TVOS|
-
 | BlueBoard (32/64bit) | https://github.com/turlodales/BlueBoard |
 | BlueBoard-2 (64bit)  | https://github.com/turlodales/BlueBoard-2 |
 | BlueBoard-2 (iPadOS) | https://github.com/turlodales/BlueBoard-2-iPadOS |
