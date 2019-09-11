@@ -24,7 +24,7 @@ if you intrested in any of the proects please look at the links for updates
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
-| BytaFont 3 | https://github.com/turlodales/BytaFont-3 |
+| BytaFont 3 || https://github.com/turlodales/BytaFont-3 |
 | BytaFont 4 (64bit)  || https://github.com/turlodales/BytaFont-4 |
 | BytaFont 4 (iPadOS) || https://github.com/turlodales/BytaFont-4-iPadOS |
 | BytaFont 4 (TVOS)   || https://github.com/turlodales/BytaFont-4-TVOS |
