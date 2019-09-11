@@ -2,16 +2,16 @@
 
 if you intrested in any of the proects please look at the links for updates
 
-#SpinSettings
+#SpinSettings forked form the origanal verson https://github.com/fewjative/SpinSettings
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
-| SpinSettings (32/64bit)forked form the origanal verson || https://github.com/turlodales/SpinSettings |
+| SpinSettings (32/64bit) || https://github.com/turlodales/SpinSettings |
 | SpinSettings-2 (64bit)  | | https://github.com/turlodales/Spinsettings-2 |
 | SpinSettings-2 (iPadOS) | | https://github.com/turlodales/SpinSettings-2-iPadSO |
 | SpinSettings-2 (TVOS)   | | https://github.com/turlodales/SpinSettings-2-TVOS|
 
-#BlueBoard
+#BlueBoard forked form the origanal verson https://github.com/xtm3x/BlueBoard
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
