@@ -4,37 +4,37 @@ if you intrested in any of the proects please look at the links for updates
 
 #SpinSettings
 
-| Decsription | Link|
-|---------|----------|
-| SpinSettings (32/64bit)forked form the origanal verson | https://github.com/turlodales/SpinSettings |
-| SpinSettings-2 (64bit)  | https://github.com/turlodales/Spinsettings-2 |
-| SpinSettings-2 (iPadOS) | https://github.com/turlodales/SpinSettings-2-iPadSO |
-| SpinSettings-2 (TVOS)   |https://github.com/turlodales/SpinSettings-2-TVOS|
+| Decsription |iOS Versions| Link|
+|---------|----------|----------|
+| SpinSettings (32/64bit)forked form the origanal verson || https://github.com/turlodales/SpinSettings |
+| SpinSettings-2 (64bit)  | | https://github.com/turlodales/Spinsettings-2 |
+| SpinSettings-2 (iPadOS) | | https://github.com/turlodales/SpinSettings-2-iPadSO |
+| SpinSettings-2 (TVOS)   | | https://github.com/turlodales/SpinSettings-2-TVOS|
 
 #BlueBoard
 
-| Decsription | Link|
-|---------|----------|
-| BlueBoard (32/64bit) | https://github.com/turlodales/BlueBoard |
-| BlueBoard-2 (64bit)  | https://github.com/turlodales/BlueBoard-2 |
-| BlueBoard-2 (iPadOS) | https://github.com/turlodales/BlueBoard-2-iPadOS |
-| BlueBoard-2 (TVOS)   | https://github.com/turlodales/BlueBoard-2-TVOS |
+| Decsription |iOS Versions| Link|
+|---------|----------|----------|
+| BlueBoard (32/64bit) || https://github.com/turlodales/BlueBoard |
+| BlueBoard-2 (64bit)  || https://github.com/turlodales/BlueBoard-2 |
+| BlueBoard-2 (iPadOS) || https://github.com/turlodales/BlueBoard-2-iPadOS |
+| BlueBoard-2 (TVOS)   || https://github.com/turlodales/BlueBoard-2-TVOS |
 
 #BytaFont
 
-| Decsription | Link|
-|---------|----------|
+| Decsription |iOS Versions| Link|
+|---------|----------|----------|
 | BytaFont 3 | https://github.com/turlodales/BytaFont-3 |
-| BytaFont 4 (64bit)  | https://github.com/turlodales/BytaFont-4 |
-| BytaFont 4 (iPadOS) | https://github.com/turlodales/BytaFont-4-iPadOS |
-| BytaFont 4 (TVOS)   | https://github.com/turlodales/BytaFont-4-TVOS |
+| BytaFont 4 (64bit)  || https://github.com/turlodales/BytaFont-4 |
+| BytaFont 4 (iPadOS) || https://github.com/turlodales/BytaFont-4-iPadOS |
+| BytaFont 4 (TVOS)   || https://github.com/turlodales/BytaFont-4-TVOS |
 
 #WeatherBoard
 
-| Decsription | Link|
-|---------|----------|
-| WeatherBoard 7.0 to iOS 8.3 | https://github.com/turlodales/WeatherBoard |
-| weatherboard 2 8.3 to 9.3.5 | https://github.com/turlodales/weatherboard-2 |
-| WeatherBoard 3 (64bit) | https://github.com/turlodales/weatherboard-3 |
-| WeatherBoard 3 (iPadOS) | https://github.com/turlodales/WeatherBoard-3-iPadOS |
-| WeatherBoard 3 (TVOS)| https://github.com/turlodales/WeatherBoard-3-TVOS |
+| Decsription |iOS Versions| Link|
+|---------|----------|----------|
+| WeatherBoard   |7.0 to 8.3   | https://github.com/turlodales/WeatherBoard |
+| weatherboard 2 |8.3 to 9.3.5 | https://github.com/turlodales/weatherboard-2 |
+| WeatherBoard 3 (64bit) || https://github.com/turlodales/weatherboard-3 |
+| WeatherBoard 3 (iPadOS) || https://github.com/turlodales/WeatherBoard-3-iPadOS |
+| WeatherBoard 3 (TVOS)| |https://github.com/turlodales/WeatherBoard-3-TVOS |
