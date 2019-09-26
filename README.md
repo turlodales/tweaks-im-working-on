@@ -2,7 +2,7 @@
 
 if you intrested in any of the proects please look at the links for updates
 
-#SpinSettings forked form the origanal verson https://github.com/fewjative/SpinSettings
+# SpinSettings forked form the origanal verson https://github.com/fewjative/SpinSettings
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
@@ -11,7 +11,7 @@ if you intrested in any of the proects please look at the links for updates
 | SpinSettings-2 (iPadOS) | | https://github.com/turlodales/SpinSettings-2-iPadSO |
 | SpinSettings-2 (TVOS)   | | https://github.com/turlodales/SpinSettings-2-TVOS|
 
-#BlueBoard forked form the origanal verson https://github.com/xtm3x/BlueBoard
+# BlueBoard forked form the origanal verson https://github.com/xtm3x/BlueBoard
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
@@ -20,7 +20,7 @@ if you intrested in any of the proects please look at the links for updates
 | BlueBoard-2 (iPadOS) || https://github.com/turlodales/BlueBoard-2-iPadOS |
 | BlueBoard-2 (TVOS)   || https://github.com/turlodales/BlueBoard-2-TVOS |
 
-#BytaFont
+# BytaFont
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
@@ -29,7 +29,7 @@ if you intrested in any of the proects please look at the links for updates
 | BytaFont 4 (iPadOS) || https://github.com/turlodales/BytaFont-4-iPadOS |
 | BytaFont 4 (TVOS)   || https://github.com/turlodales/BytaFont-4-TVOS |
 
-#WeatherBoard
+# WeatherBoard
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
