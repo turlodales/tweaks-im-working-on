@@ -2,6 +2,8 @@
 
 if you intrested in any of the proects please look at the links for updates
 
+My Current List of Devices see here: https://github.com/turlodales/my-own-devices
+
 # SpinSettings forked form the origanal verson https://github.com/fewjative/SpinSettings
 
 | Decsription |iOS Versions| Link|
