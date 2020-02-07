@@ -1,4 +1,6 @@
-# tweaks im working on this is a list of tweaks on working on this just the READ ME INFO the tweaks will be on my repo i have permission for Spinsettings and BlueBoard by the devlopers but not for BytaFont or WeatherBoard but i saved all the info for WeatherBoard before it was deleted  
+# tweaks im working on this is a list of tweaks on working on this just the READ ME INFO the tweaks will be on my repo i have permission for Spinsettings and BlueBoard by the devlopers but not for BytaFont or WeatherBoard but i saved all the info for WeatherBoard before it was deleted 
+
+# Due to CheckRa1n BootRom Exploit i have not tested for the iPhone 5S to iPhone X only i will be adding Yes/UN when people send be proof it is working or i can see it is working on my own device i will change to Yes 
 
 if you intrested in any of the proects please look at the links for updates
 
