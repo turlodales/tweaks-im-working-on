@@ -11,10 +11,10 @@ My Current List of Devices see here: https://github.com/turlodales/my-own-device
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
-| SpinSettings (32/64bit) || https://github.com/turlodales/SpinSettings |
-| SpinSettings-2 (64bit)  | | https://github.com/turlodales/Spinsettings-2 |
-| SpinSettings-2 (iPadOS) | | https://github.com/turlodales/SpinSettings-2-iPadSO |
-| SpinSettings-2 (TVOS)   | | https://github.com/turlodales/SpinSettings-2-TVOS|
+| SpinSettings (32/64bit) | 7.0 to 10.3.3 | https://github.com/turlodales/SpinSettings |
+| SpinSettings-2 (64bit)  | 11.0 to 13.4.1 | https://github.com/turlodales/Spinsettings-2 |
+| SpinSettings-2 (iPadOS) | 13.1 to 13.4.1 | https://github.com/turlodales/SpinSettings-2-iPadSO |
+| SpinSettings-2 (TVOS)   | 9.0 to 13.4 | https://github.com/turlodales/SpinSettings-2-TVOS|
 
 # BlueBoard forked form the origanal verson https://github.com/xtm3x/BlueBoard
 
