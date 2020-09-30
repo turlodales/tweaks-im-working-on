@@ -7,7 +7,7 @@ if you intrested in any of the projects please look at the links for updates
 
 My Current List of Devices see here: https://github.com/turlodales/my-own-devices
 
-# SpinSettings forked form the origanal verson https://github.com/fewjative/SpinSettings
+# SpinSettings forked form the Original Verson https://github.com/fewjative/SpinSettings
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
@@ -16,13 +16,13 @@ My Current List of Devices see here: https://github.com/turlodales/my-own-device
 | SpinSettings-2 (iPadOS) | 13.1 to 13.4.1 | https://github.com/turlodales/SpinSettings-2-iPadSO |
 | SpinSettings-2 (TVOS)   | 9.0 to 13.4 | https://github.com/turlodales/SpinSettings-2-TVOS|
 
-# BlueBoard forked form the origanal verson https://github.com/xtm3x/BlueBoard
+# BlueBoard forked form the Original Verson https://github.com/xtm3x/BlueBoard
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
 | BlueBoard (32/64bit) || https://github.com/turlodales/BlueBoard |
 | BlueBoard-2 (64bit)  || https://github.com/turlodales/BlueBoard-2 |
-| BlueBoard-2 (iPadOS) || https://github.com/turlodales/BlueBoard-2-iPadOS |
+| BlueBoard-2 (iPadOS) | 13.1 - ? | https://github.com/turlodales/BlueBoard-2-iPadOS |
 | BlueBoard-2 (TVOS)   || https://github.com/turlodales/BlueBoard-2-TVOS |
 
 # BytaFont
@@ -31,7 +31,7 @@ My Current List of Devices see here: https://github.com/turlodales/my-own-device
 |---------|----------|----------|
 | BytaFont 3 || https://github.com/turlodales/BytaFont-3 |
 | BytaFont 4 (64bit)  || https://github.com/turlodales/BytaFont-4 |
-| BytaFont 4 (iPadOS) || https://github.com/turlodales/BytaFont-4-iPadOS |
+| BytaFont 4 (iPadOS) | 13.1 - ? | https://github.com/turlodales/BytaFont-4-iPadOS |
 | BytaFont 4 (TVOS)   || https://github.com/turlodales/BytaFont-4-TVOS |
 
 # WeatherBoard
@@ -41,5 +41,5 @@ My Current List of Devices see here: https://github.com/turlodales/my-own-device
 | WeatherBoard   |7.0 to 8.3   | https://github.com/turlodales/WeatherBoard |
 | weatherboard 2 |8.3 to 9.3.5 | https://github.com/turlodales/weatherboard-2 |
 | WeatherBoard 3 (64bit) || https://github.com/turlodales/weatherboard-3 |
-| WeatherBoard 3 (iPadOS) || https://github.com/turlodales/WeatherBoard-3-iPadOS |
+| WeatherBoard 3 (iPadOS) | 13.1 - ? | https://github.com/turlodales/WeatherBoard-3-iPadOS |
 | WeatherBoard 3 (TVOS)| |https://github.com/turlodales/WeatherBoard-3-TVOS |
