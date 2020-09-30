@@ -7,7 +7,7 @@ if you intrested in any of the projects please look at the links for updates
 
 My Current List of Devices see here: https://github.com/turlodales/my-own-devices
 
-# SpinSettings forked form the Original Verson https://github.com/fewjative/SpinSettings
+# SpinSettings forked form the Original Version https://github.com/fewjative/SpinSettings
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
@@ -16,7 +16,7 @@ My Current List of Devices see here: https://github.com/turlodales/my-own-device
 | SpinSettings-2 (iPadOS) | 13.1 to 13.4.1 | https://github.com/turlodales/SpinSettings-2-iPadSO |
 | SpinSettings-2 (TVOS)   | 9.0 to 13.4 | https://github.com/turlodales/SpinSettings-2-TVOS|
 
-# BlueBoard forked form the Original Verson https://github.com/xtm3x/BlueBoard
+# BlueBoard forked form the Original Version https://github.com/xtm3x/BlueBoard
 
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
