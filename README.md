@@ -12,7 +12,7 @@ My Current List of Devices see here: https://github.com/turlodales/my-own-device
 | Decsription |iOS Versions| Link|
 |---------|----------|----------|
 | SpinSettings (32/64bit) | 7.0 to 10.3.3 | https://github.com/turlodales/SpinSettings |
-| SpinSettings-2 (64bit)  | 11.0 to 13.4.1 | https://github.com/turlodales/Spinsettings-2 |
+| SpinSettings-2 (64bit)  | 11.0 to 12.5.7 | https://github.com/turlodales/Spinsettings-2 |
 | SpinSettings-3 (64bit)  | 13.0 to 16.x.x | https://github.com/turlodales/Spinsettings-3 |
 | SpinSettings-2 (iPadOS) | 13.1 to 13.4.1 | https://github.com/turlodales/SpinSettings-2-iPadSO |
 | SpinSettings-2 (TVOS)   | 9.0 to 13.4 | https://github.com/turlodales/SpinSettings-2-TVOS|
